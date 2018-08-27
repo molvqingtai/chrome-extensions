@@ -3,7 +3,7 @@
     "version": "1.0",
     "author": "molvqingtai",
     "description": "Show all element borders",
-    "homepage_url": "https://github.com/molvqingtai",
+    "homepage_url": "https://github.com/molvqingtai/chrome-extensions",
     "manifest_version": 2,
 
     "icons": {
