@@ -2,9 +2,11 @@
 
 
 
-**一个本人开发的Chrome插件（Chrome Extensions）项目集合**
+**此项目用于保存本人开发的Chrome插件（Chrome Extensions）集合，仅用作学习用途**。
 
 
+
+#### 
 
 #### Extensions List
 
