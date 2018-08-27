@@ -1,7 +1,6 @@
 
-# gitmodules files
-boxboder
-
+# macos file
+.DS_Store
 
 # Logs
 logs
