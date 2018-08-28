@@ -1,3 +1,6 @@
 [submodule "BoxBorder"]
 	path = BoxBorder
 	url = git@github.com:molvqingtai/BoxBorder.git
+[submodule "TemporaryEditor"]
+	path = TemporaryEditor
+	url = git@github.com:molvqingtai/TemporaryEditor.git
