@@ -6,4 +6,4 @@
 	url = git@github.com:molvqingtai/TemporaryEditor.git
 [submodule "Bookmark"]
 	path = Bookmark
-	url = git@github.com:molvqingtai/chrome-extensions.git
+	url = git@github.com:molvqingtai/Bookmark.git
